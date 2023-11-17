@@ -2,18 +2,26 @@
 FMTSClust stands for Framework for Meteorological Time Series Clustering, a framework proposed and implemented for agrometeorological applications.
 This project was developed during my PhD, being the final product of my thesis.
 
-FMTSClust Overview
+<br></br>
+**FMTSClust Overview**
+
 ![FMTSClust-Overview](https://github.com/marcosjr06/FMTSClust/assets/2211378/46ebea3f-72db-4399-88c9-03275ef59d55)
 
 
-**Version I - FMTSClust Library**
+<br></br>
+**VERSION I - FMTSClust Library**
+
 Version I was implemented in the form of a python library (FMTSClust.py), with functions for automating all steps of the framework.
-![FMTSClust-FunctionsAndFlow](https://github.com/marcosjr06/FMTSClust/assets/2211378/09bb669f-b2c3-4cec-9f30-18238b7116e6)
+
+![FMTSClust-FunctionsAndFlow](https://github.com/marcosjr06/FMTSClust/assets/2211378/7c95414c-6e8e-4479-938c-bde3db9a5f51)
 
 
-**Version I - FMTSClustAPI**
+<br></br>
+**VERSION I - FMTSClustAPI**
+
 Version II was implemented in the format of an API, to enable interaction with other systems as well as the consumption of clustering results.
 
+ENDPOINTS soon.
 
 
 Collaborations and suggestions are welcome.
