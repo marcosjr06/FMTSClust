@@ -3,7 +3,7 @@ FMTSClust stands for Framework for Meteorological Time Series Clustering, a fram
 This project was developed during my PhD, being the final product of my thesis.
 
 FMTSClust Overview
-![FMTSClust-Overview](https://github.com/marcosjr06/FMTSClust/assets/2211378/3f0e970b-d7c8-46c8-92a8-e9eec07960e1)
+![FMTSClust-Overview](https://github.com/marcosjr06/FMTSClust/assets/2211378/46ebea3f-72db-4399-88c9-03275ef59d55)
 
 
 **Version I - FMTSClust Library**
@@ -17,4 +17,5 @@ Version II was implemented in the format of an API, to enable interaction with o
 
 
 Collaborations and suggestions are welcome.
+
 Email: marcosjr.sm@gmail.com
